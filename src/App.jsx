@@ -4,7 +4,6 @@ import ImagenCripto from './img/imagen-criptos.png';
 import Formulario from './components/Formulario';
 import { useEffect } from 'react';
 import Resultado from './components/Resultado';
-import Spinners from './components/Spinners';
 import Loading from './components/Loading';
 const Heading = styled.h1`
   font-family: 'Lato', sans-serif;
